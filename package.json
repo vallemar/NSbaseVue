@@ -38,11 +38,13 @@
     "category-general"
   ],
   "dependencies": {
-    "nativescript-vue": "~2.9.0",
     "@nativescript/core": "~8.0.0",
-    "@nativescript/theme": "~3.0.1"
+    "@nativescript/theme": "~3.0.1",
+    "nativescript": "^8.0.1",
+    "nativescript-vue": "~2.9.0"
   },
   "devDependencies": {
+    "@nativescript/android": "8.0.0",
     "@nativescript/types": "~8.0.0",
     "@nativescript/webpack": "beta",
     "@types/node": "~14.6.2",
